@@ -1,1 +1,2 @@
-# Tg-bot2
+# Eblan AI Bot
+Telegram bot with AI features
